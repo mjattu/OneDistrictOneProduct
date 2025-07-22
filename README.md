@@ -73,7 +73,7 @@ https://www.data.gov.in/
 
 **Author**: Atanu Das  
 **LinkedIn**: https://linkedin.com/in/atanudasd2016/
-**Medium**: [medium.com/@yourhandle](https://medium.com/@yourhandle)
+
 
 ---
 
