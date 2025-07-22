@@ -39,7 +39,7 @@ The Government of India's ODOP scheme promotes unique, locally produced items fr
 ## 🔗 Live Demo / Blog
 
 📝 **Medium Article:**  
-[One District One Product – Data Insights from Power BI](https://medium.com/your-article-link)
+https://thelastdanc3.medium.com/one-district-one-product-data-driven-insights-from-indias-odop-scheme-using-power-bi-05acf3391d25
 
 ---
 
